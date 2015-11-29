@@ -36,6 +36,7 @@ public class HCFScoreboard extends JavaPlugin {
 		getConfig().addDefault(Paths.SPAWN_TAG_MAX_TIME, Defaults.SPAWN_TAG_MAX_TIME);
 		getConfig().addDefault(Paths.PEARL_COOLDOWN_TITLE, Defaults.PEARL_COOLDOWN_TITLE);
 		getConfig().addDefault(Paths.PEARL_COOLDOWN_MAX_TIME, Defaults.PEARL_COOLDOWN_MAX_TIME);
+	        getConfig().addDefault(Paths.PEARL_COOLDOWN_MAX_TIME, Defaults.PEARL_COOLDOWN_MAX_TIME);
 		getConfig().options().copyDefaults(true);
 		saveConfig();
 	}

@@ -12,4 +12,5 @@ public class Defaults {
 	public static final String PEARL_COOLDOWN_TITLE = "&dPearlCD: &a";
 	public static final int SPAWN_TAG_MAX_TIME = 30;
 	public static final int PEARL_COOLDOWN_MAX_TIME = 16;
+	public static final int PVP_TIMER_MAX_TIME = 1200;
 }

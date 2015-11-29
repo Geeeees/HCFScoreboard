@@ -11,7 +11,9 @@ public class Paths {
 	public static final String SPAWN_TAG = "playerTagCooldown";
 	public static final String SPAWN_TAG_TITLE = SPAWN_TAG + ".title";
 	public static final String SPAWN_TAG_MAX_TIME = SPAWN_TAG + ".maxTime";
+	public static final int PVP_TIMER_TIME = 1200;
 	public static final String PEARL_COOLDOWN = "pearlCooldown";
 	public static final String PEARL_COOLDOWN_TITLE = PEARL_COOLDOWN + ".title";
 	public static final String PEARL_COOLDOWN_MAX_TIME = PEARL_COOLDOWN + ".maxTime";
+	public static final int PVP_TIMER_MAX_TIME = 1200;
 }
